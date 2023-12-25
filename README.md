@@ -1,5 +1,5 @@
 # labs
 
 #### 介绍
-getchar()
+getchar()清理缓冲区
 
